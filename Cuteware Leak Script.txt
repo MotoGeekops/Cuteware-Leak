@@ -1,0 +1,7 @@
+--[[
+user for normal version
+beta for beta version
+]]--
+_G.version = "beta"
+
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/803997326453cdcdf657c36aec5a2f7c.lua"))()
